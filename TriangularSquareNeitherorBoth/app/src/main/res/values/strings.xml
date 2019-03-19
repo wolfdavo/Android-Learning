@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Triangular, Square, Neither, or Both?</string>
+    <string name="check">check #</string>
+    <string name="enter_number_here">Enter number here</string>
+</resources>

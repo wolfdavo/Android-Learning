@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo App new</string>
+    <string name="action_settings">Settings</string>
+    <string name="helloDavidTextView">Hello David!</string>
+    <string name="howAreYou">How are you?</string>
+    <string name="clickFunction">clickFunction</string>
+</resources>

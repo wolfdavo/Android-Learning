@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CFF0F7</color>
+    <color name="colorPrimaryDark">#CFF0F7</color>
+    <color name="colorAccent">#444546</color>
+    <color name="sandyColor">#FAF3CC</color>
+    <color name="rose">#FFE4E1</color>
+    <color name="lime">#F0FFF0</color>
+    <color name="lavender">#E6E6FA</color>
+
+</resources>
